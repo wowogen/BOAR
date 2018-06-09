@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\$PNS000-NUSOHCDF4G7U\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_killBoar.-902344375.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\killBoar" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\ANIMALS FULL PACK" t="Include">
+        <e p="FOREST ANIMALS PACK" t="Include">
+          <e p="ANIMALS" t="Include">
+            <e p="STANDARD WOLF" t="Include">
+              <e p="FBX Files" t="Include">
+                <e p="enemyAi.cs" t="Include" />
+                <e p="foxAnimation.cs" t="Include" />
+                <e p="foxCtrl.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Assets\Bien fait" t="Include">
+        <e p="Asset_Amoriz" t="Include">
+          <e p="BOAR" t="Include">
+            <e p="Script poursuite boar" t="Include">
+              <e p="chaise.cs" t="Include" />
+              <e p="life.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Controle_animaux.cs" t="Include" />
+          <e p="RABBIT" t="Include">
+            <e p="Script" t="Include">
+              <e p="chaiseRabbit.cs" t="Include" />
+              <e p="lifeRabbit.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SpownAndManager" t="Include">
+          <e p="PlayerManager.cs" t="Include" />
+          <e p="SpownObjet.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\FoodSysteme.cs" t="Include" />
+      <e p="Assets\max" t="Include">
+        <e p="charCtrl.cs" t="Include" />
+        <e p="InventoryMax1.cs" t="Include" />
+      </e>
+      <e p="Assets\terrier.cs" t="Include" />
+      <e p="killBoar.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
